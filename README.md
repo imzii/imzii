@@ -1,6 +1,6 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 현재는 개발 중인 프로젝트는 **포트폴리오 / 블로그 사이트**
+- 🔭 현재 개발 중인 프로젝트는 **포트폴리오 / 블로그 사이트**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
