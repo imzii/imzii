@@ -33,7 +33,7 @@
   
 </details>
 
-<details open>
+<details>
   <summary>
     Back-end
   </summary>
@@ -46,7 +46,7 @@
   
 </details>
 
-<details open>
+<details>
   <summary>
     Database
   </summary>
@@ -57,7 +57,7 @@
   
 </details>
 
-<details open>
+<details>
   <summary>
     AI
   </summary>
