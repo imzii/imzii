@@ -22,7 +22,7 @@
   
 </details>
 
-<details open>
+<details>
   <summary>
     Front-end
   </summary>
